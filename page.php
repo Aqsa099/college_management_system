@@ -4,14 +4,11 @@
     <section class="content-header">
       <h1 style="text-align: center;">
         <strong>Superior Group of Colleges</strong>        
-        | Learning Management System (LMS)
+        | Attendance Management System
       </h1>
-      <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-dashboard"></i> Level</a></li>
-        <li class="active">Here</li>
-      </ol>
+      
     </section>
-
+     <?php echo message(); ?>
     <!-- Main content -->
     <section class="content container-fluid">
      
