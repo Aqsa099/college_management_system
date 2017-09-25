@@ -1,0 +1,26 @@
+
+h1{
+	text-align:center;
+	font-family:Impact;
+	color:#133751;
+	font-size:18px;
+	margin-top:5px;
+}
+.body{
+	background-color:#133751;
+}
+.bg{
+	background-color:white;
+	width:40%;
+    z-index:-1;
+    margin-left:400px;	
+    margin-top:150px;
+    border-radius:40px;	
+	padding-bottom:30px;
+}
+.img{
+	
+	height:15%;
+	width:15%;
+	margin-left: 235px;
+	margin-top: 15px;

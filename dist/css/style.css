@@ -1,0 +1,36 @@
+
+h1{
+	text-align:center;
+	font-family:Impact;
+	color:#007A7F;
+	font-size:18px;
+	margin-top:5px;
+}
+.body{
+	background-color:#007A7F;
+	
+}
+.bg{
+	background-color: #d0ece7;
+	width:40%;
+    z-index:-1;
+    margin-left:400px;	
+    margin-top:110px;
+    border-radius:40px;	
+	padding-bottom:40px;
+}
+.bg1{
+	background-color: #d0ece7;
+	width:40%;
+    z-index:-1;
+    margin-left:400px;	
+    margin-top:90px;
+    border-radius:40px;	
+	padding-bottom:40px;
+}
+.img{
+	
+	height:15%;
+	width:15%;
+	margin-left: 235px;
+	margin-top: 15px;
